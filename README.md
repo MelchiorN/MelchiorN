@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ## 📬 Me contacter
 
-- 📧 Email : melchior@example.com
-- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
-- 🌐 Portfolio : [https://tonsite.github.io](https://tonsite.github.io)
+- 📧 Email : ysylvain16@gmail.com | melchiornunyabu@gmail.com
+- 💼 LinkedIn : 
+- 🌐 Portfolio : https://melchior-portfolio.netlify.app
 
 ---
 
