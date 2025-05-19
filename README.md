@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Salut, moi c'est Melchior 👋</h1>
 
 <p align="center">
-  🎓 Étudiant en Informatique | 💻 Développeur Web & Mobile | 🎯 Objectif : Ingénieur logiciel
+  🎓 Étudiant en Informatique | 💻 Développeur Web & Mobile | 🎯 Objectif : Ingénieur logiciel <br/> Passioné par la Cybersécurité
 </p>
 
 ---
